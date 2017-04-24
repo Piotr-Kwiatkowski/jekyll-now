@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Jeckyll schmeckyll!
+title: Jeckyll schmeckyll
 ---
 
 Make your own site, they said. It will be fun, they said.
