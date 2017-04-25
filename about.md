@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Software tester. Occasional programmer.<br>
+Test Engineer with experience in Automotive and LTE areas.<br>
+Diving into code in spare time.<br>
 Currently based in [Szczecin, PL](https://en.wikipedia.org/wiki/Szczecin).
 
 My main interests are C++ and Java.<br>
