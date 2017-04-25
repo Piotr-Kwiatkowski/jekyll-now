@@ -287,6 +287,10 @@ nav {
   border-left: 1px solid $lightGray;
   border-right: 1px solid $lightGray;
   background-color: $lightestGray;
+
+  @include mobile {
+    width: auto;
+  }
 }
 
 footer {
