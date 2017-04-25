@@ -17,7 +17,7 @@ The intention of this site is to record my development progress.<br>
 If you'll find it interesting or useful in any way -- please, drop me a line.<br>
 If you'll find some time to give me feedback of any kind -- I'll be really grateful.<br>
 
-Site was created with [Jekyll](https://jekyllrb.com/) (precisely with [Jekyll Now](http://www.jekyllnow.com/)) and -- as a front-end noob -- I can highly recommend it to anybody wanting to quickly establish a blog website.
+Site was created with [Jekyll](https://jekyllrb.com/) (precisely with [Jekyll Now](http://www.jekyllnow.com/)) and I can highly recommend it to anybody wanting to quickly establish a blog website.
 
 ### Contact me:
 
