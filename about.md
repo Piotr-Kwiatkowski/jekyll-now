@@ -20,4 +20,3 @@ If you'll find some time to give me feedback of any kind -- I'll be really grate
 
 [mail-image]: /images/mail-image.png
 [mail-address]: mailto:piotr.lukasz.kwiatkowski@gmail.com
-

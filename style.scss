@@ -219,7 +219,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 16px;
 
   @include mobile {
     float: none;
@@ -267,24 +267,30 @@ nav {
   }
 
   .comments {
-    margin-top: 10px;
+    margin-top: 50px;
   }
 
   .read-more {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 12px;
   }
 }
 
 .wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  margin-top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 740px;
+
+  border-top: 1px solid $lightGray;
+  border-bottom: 1px solid $lightGray;
+  border-left: 1px solid $lightGray;
+  border-right: 1px solid $lightGray;
+  background-color: $lightestGray;
 }
 
 footer {
-  padding: 20px 0;
+  padding: 10px 0;
   text-align: center;
 }
 
