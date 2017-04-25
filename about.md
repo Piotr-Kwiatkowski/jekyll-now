@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Software tester. Occasional programmer.<br>
-Based in [Szczecin, PL](https://en.wikipedia.org/wiki/Szczecin).
+Currently based in [Szczecin, PL](https://en.wikipedia.org/wiki/Szczecin).
 
 ### About site:
 
@@ -15,4 +15,9 @@ If you'll find some time to give me feedback of any kind -- I'll be really grate
 
 ### Contact me:
 
-[piotr.lukasz.kwiatkowski@gmail.com](mailto:piotr.lukasz.kwiatkowski@gmail.com)
+[![mail][mail-image]][mail-address]
+&nbsp;<a href="mailto:piotr.lukasz.kwiatkowski@gmail.com">piotr.lukasz.kwiatkowski@gmail.com</a>
+
+[mail-image]: /images/mail-image.png
+[mail-address]: mailto:piotr.lukasz.kwiatkowski@gmail.com
+
