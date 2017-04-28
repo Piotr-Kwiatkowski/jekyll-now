@@ -21,8 +21,8 @@ Enjoy.<br><br>
 [Jon Skeet](https://codeblog.jonskeet.uk/)<br>
 [Manu Sánchez](http://manu343726.github.io)<br>
 [Krzysztof Kowalczyk](https://blog.kowalczyk.info)<br>
-[JavaDevMatt](http://javadevmatt.pl)<br>
-[DevTalk](http://devtalk.pl/)<br>
+[JavaDevMatt](http://javadevmatt.pl) \[PL\]<br>
+[DevTalk](http://devtalk.pl/) \[PL\]<br>
 
 **Sources:**<br>
 [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
@@ -40,8 +40,8 @@ Enjoy.<br><br>
 [Why C++ Supports both Class and Typename for Type Parameters](https://web.archive.org/web/20060619131004/http://blogs.msdn.com/slippman/archive/2004/08/11/212768.aspx)
 
 **Non-technical blogs:**<br>
-[Rafał Ruba](http://rafalruba.pl)<br>
-[Michał Stopka](http://michalstopka.pl)<br>
+[Rafał Ruba](http://rafalruba.pl) \[PL\]<br>
+[Michał Stopka](http://michalstopka.pl) \[PL\]<br>
 
 **Pretty things:**<br>
 [Alek Morawski](http://alekmorawski.com/)<br>
