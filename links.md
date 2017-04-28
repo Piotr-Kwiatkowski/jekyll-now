@@ -4,6 +4,10 @@ title: Links
 permalink: /links/
 ---
 
+This is a list of useful / interesting places in the web _(constantly under development)_.<br>
+Enjoy.<br><br>
+
+
 **Resources:**<br>
 [Stack Overflow documentation](http://stackoverflow.com/documentation)<br>
 
@@ -17,6 +21,8 @@ permalink: /links/
 [Jon Skeet](https://codeblog.jonskeet.uk/)<br>
 [Manu Sánchez](http://manu343726.github.io)<br>
 [Krzysztof Kowalczyk](https://blog.kowalczyk.info)<br>
+[JavaDevMatt](http://javadevmatt.pl)<br>
+[DevTalk](http://devtalk.pl/)<br>
 
 **Sources:**<br>
 [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
@@ -35,11 +41,13 @@ permalink: /links/
 
 **Non-technical blogs:**<br>
 [Rafał Ruba](http://rafalruba.pl)<br>
+[Michał Stopka](http://michalstopka.pl)<br>
 
 **Pretty things:**<br>
 [Alek Morawski](http://alekmorawski.com/)<br>
 
 
 <br><br>
+**To be sorted:**<br>
 [Language Features of C++17](/materials/cpp17_language.pdf)<br>
 [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)<br>
