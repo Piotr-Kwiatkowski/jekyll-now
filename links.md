@@ -8,8 +8,18 @@ This is a list of useful / interesting places in the web _(constantly under deve
 Enjoy.<br><br>
 
 
+**Online compilers:**<br>
+[ideone.com](https://ideone.com/)<br>
+[godbolt.org](https://godbolt.org/)<br>
+
+
 **Resources:**<br>
 [Stack Overflow documentation](http://stackoverflow.com/documentation)<br>
+
+
+**Coding excercises:**<br>
+[codewars.com](https://codewars.com/)<br>
+[hackerrank.com](https://hackerrank.com/)<br>
 
 
 **Techical blogs / Personal websites:**<br>
@@ -23,12 +33,16 @@ Enjoy.<br><br>
 [Krzysztof Kowalczyk](https://blog.kowalczyk.info)<br>
 [JavaDevMatt](http://javadevmatt.pl) \[PL\]<br>
 [DevTalk](http://devtalk.pl/) \[PL\]<br>
+[GotoFinal](https://blog.gotofinal.com/) \[PL\]<br>
+
 
 **Sources:**<br>
 [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
 
+
 **Technical initiatives:**<br>
 [Underhanded C](http://underhanded-c.org/)
+
 
 **Books:**<br>
 [Site Reliability Engineering](http://landing.google.com/sre/book.html)<br>
@@ -39,9 +53,11 @@ Enjoy.<br><br>
 [Policy-based design](https://en.wikipedia.org/wiki/Policy-based_design)<br>
 [Why C++ Supports both Class and Typename for Type Parameters](https://web.archive.org/web/20060619131004/http://blogs.msdn.com/slippman/archive/2004/08/11/212768.aspx)
 
+
 **Non-technical blogs:**<br>
 [Rafał Ruba](http://rafalruba.pl) \[PL\]<br>
 [Michał Stopka](http://michalstopka.pl) \[PL\]<br>
+
 
 **Pretty things:**<br>
 [Alek Morawski](http://alekmorawski.com/)<br>
