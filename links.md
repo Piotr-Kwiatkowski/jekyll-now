@@ -46,6 +46,7 @@ KrzaQ: [dev](https://dev.krzaq.cc/) | [dsp](https://dsp.krzaq.cc/)<br>
 
 **Non-technical blogs:**<br>
 [Olle Bergman](http://www.ollebergman.se/)<br>
+[Mart Virkus](https://arcaderage.co/)<br>
 [Way to Eldorado](http://waytoeldorado.pl/) \[PL\]<br>
 [Rafał Ruba](http://rafalruba.pl) \[PL\]<br>
 [Michał Stopka](http://michalstopka.pl) \[PL\]<br>
