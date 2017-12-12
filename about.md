@@ -21,8 +21,9 @@ If you'll find some time to give me feedback of any kind -- I'll be really grate
 
 ### Contact me:
 
-[![mail][mail-image]][mail-address]
-&nbsp;<a href="mailto:piotr.lukasz.kwiatkowski@gmail.com">piotr.lukasz.kwiatkowski@gmail.com</a>
+piotr.lukasz.kwiatkowski [at] gmail.com
+<!-- [![mail][mail-image]][mail-address]
+&nbsp;<a href="mailto:piotr.lukasz.kwiatkowski@gmail.com">piotr.lukasz.kwiatkowski@gmail.com</a>-->
 
 [mail-image]: /images/mail-image.png
 [mail-address]: mailto:piotr.lukasz.kwiatkowski@gmail.com
