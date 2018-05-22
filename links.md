@@ -44,6 +44,7 @@ PJWSTK: [wszystkie wykłady](http://edu.pjwstk.edu.pl/wyklady/) | [Programowanie
 KrzaQ: [dev](https://dev.krzaq.cc/) | [dsp](https://dsp.krzaq.cc/)<br>
 [Stanley Zheng](https://blog.stanzheng.com/recurse/interview-prep/)<br>
 [Thimbleweed Park](https://blog.thimbleweedpark.com/)<br>
+[cpp-polska](http://cpp-polska.pl/)<br>
 
 **Non-technical blogs:**<br>
 [Olle Bergman](http://www.ollebergman.se/)<br>
