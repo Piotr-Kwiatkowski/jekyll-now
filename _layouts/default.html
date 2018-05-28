@@ -13,6 +13,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <!-- <script src="//code.tidio.co/yoysrer37vgzf0rue512mhqw9ovrjzfc.js"></script> -->
   </head>
 
   <body>
@@ -45,11 +46,13 @@
           {% include svg-icons.html %}<br><br>
           
           <h6>
-            &copy 2017 Piotr Kwiatkowski. Powered by 
+            &copy <script type="text/javascript">
+              document.write(new Date().getFullYear())
+            </script> Piotr Kwiatkowski. Powered by 
             <a href="https://jekyllrb.com/">Jekyll</a> with <a href="http://www.jekyllnow.com">Jekyll Now</a>.
             <!--  and also <a href="http://ikons.piotrkwiatkowski.co.uk/">IKONS</a> -->
             Hosted with ❤ by <a href="https://github.com">GitHub</a>.
-          </h4>
+          </h6>
         </footer>
       </div>
     </div>

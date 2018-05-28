@@ -44,6 +44,7 @@ PJWSTK: [wszystkie wykłady](http://edu.pjwstk.edu.pl/wyklady/) | [Programowanie
 KrzaQ: [dev](https://dev.krzaq.cc/) | [dsp](https://dsp.krzaq.cc/)<br>
 [Stanley Zheng](https://blog.stanzheng.com/recurse/interview-prep/)<br>
 [Thimbleweed Park](https://blog.thimbleweedpark.com/)<br>
+[cpp-polska](http://cpp-polska.pl/)<br>
 
 **Non-technical blogs:**<br>
 [Olle Bergman](http://www.ollebergman.se/)<br>
@@ -94,6 +95,12 @@ Lekcja Assemblera (wytrzeszcz):
 [Visual Studio - Command to collapse all sections of code](https://stackoverflow.com/questions/982677/visual-studio-command-to-collapse-all-sections-of-code)<br>
 [Exception Handling in C without C++](http://www.on-time.com/ddj0011.htm)<br>
 [Drzewo binarne i zbalansowane wierzchołki](http://algorytmy.blox.pl/2008/03/Drzewo-binarne-i-zbalansowane-wierzcholki.html) \[PL\]<br>
+
+**Testing materials:**<br>
+[Testowanie Oprogramowania - początek](https://pwicherski.gitbooks.io/testowanieoprogramowania/)<br>
+[Akcja automatyzacja](http://testerzy.pl/baza-wiedzy/akcja-automatyzacja-czesc-1-konfiguracja) (testerzy.pl)<br>
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0/)<br>
+[Mr Buggy](http://mrbuggy.pl/)<br>
 
 
 **Pretty things:**<br>
