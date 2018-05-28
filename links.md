@@ -105,6 +105,7 @@ Lekcja Assemblera (wytrzeszcz):
 [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)<br>
 [GitHub Pages](https://pages.github.com/)<br>
 [learn-anything.xyz/](https://learn-anything.xyz/)<br>
+[udacity](udacity.com)<br>
 
 **LTE:**<br>
 [LTE Poradnik](http://www.w3ii.com/pl/lte/default.html) \[PL\]<br>
