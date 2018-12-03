@@ -28,7 +28,6 @@ body {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: 0 10px;
   width: 100%;
 }
 
@@ -64,7 +63,6 @@ h3 {
 
 h4 {
   font-size: 16px;
-//  color: $gray;
 }
 
 h6 {
@@ -80,7 +78,7 @@ a {
   color: $blue;
   text-decoration: none;
   cursor: pointer;
-
+  transition: all .2s;
   &:hover,
   &:active {
     color: $blue;
@@ -172,11 +170,9 @@ img {
 
 .masthead {
   padding: 13px 15px 10px 0;
-  border-top: 1px solid $lightGray;
-  border-bottom: 1px solid $lightGray;
-  border-left: 1px solid $lightGray;
-  border-right: 1px solid $lightGray;
+  border: 1px solid $lightGray;
   background-color: $lightestGray;
+  border-radius: 10px;
 
   @include mobile {
     text-align: center;
@@ -198,7 +194,7 @@ img {
   }
 
   img {
-    border-radius: 55px;
+    border-radius: 7px;
   }
 }
 
@@ -276,6 +272,7 @@ nav {
 }
 
 .post {
+  padding: 0 15px;
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -307,13 +304,9 @@ nav {
   margin-left: auto;
   margin-right: auto;
   width: 740px;
-
-  border-top: 1px solid $lightGray;
-  border-bottom: 1px solid $lightGray;
-  border-left: 1px solid $lightGray;
-  border-right: 1px solid $lightGray;
   background-color: $lightestGray;
-  //background-color: $lightGray;
+  border: 1px solid $lightGray;
+  border-radius: 10px;
 
   @include mobile {
     width: auto;
