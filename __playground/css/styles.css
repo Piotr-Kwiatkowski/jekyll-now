@@ -1,0 +1,44 @@
+/* general */
+
+* {
+  /*  margin: 0;*/
+  /*  padding: 0;*/
+
+  /* for deletion before deploy */
+  border: 1px dotted;
+  border-color: blue;
+}
+
+
+@font-face {
+  font-family: 'league_spartan';
+  src: url('leaguespartan-bold-webfont.woff2') format('woff2'), url('leaguespartan-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.wrapper {
+  display: block;
+  width: 900px;
+  margin: 20px auto;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+a {
+  color: inherit;
+}
+
+a:hover {
+  color: gray;
+}
+
+h1 {
+  font-family: 'league_spartan', Arial, sans-serif;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 10px;
+}
