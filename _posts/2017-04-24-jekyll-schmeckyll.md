@@ -14,7 +14,7 @@ And it's still only a default theme!
 
 > **_historical pause_**
 
-Well, of course it was my fault and lack of understanding the tool.<br>
+Well, of course, it was my fault and lack of understanding of the tool.<br>
 Wanting to have it done with the smallest possible effort -- smart, isn't it?<br>
 But here it is. In all its glory.<br>
 
