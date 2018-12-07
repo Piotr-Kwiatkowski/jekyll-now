@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+
+![my sweet sexy face](/images/sweet-sexy-face.jpg)
+
 Quality Assurance Engineer with experience in Automotive and LTE areas. Currently working in a SaaS company<!-- - <a href="https://tidiochat.com">Tidio</a>-->.<br>
 Diving into code in spare time.<br>
 Currently based in [Szczecin, PL](https://en.wikipedia.org/wiki/Szczecin).

@@ -119,7 +119,8 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+  //  max-width: 100%;
+  max-width: 60%;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -229,8 +230,8 @@ img {
   
   
   @include mobile {
-//    margin: 1px 0;
-//    letter-spacing: 2px;
+  //    margin: 1px 0;
+  //    letter-spacing: 2px;
   }
 }
 
@@ -307,8 +308,8 @@ nav {
 }
 
 .page {
-//  border: 2px solid;
-//  border-color: red;
+  //  border: 2px solid;
+  //  border-color: red;
   padding: 10px;
 }
 
