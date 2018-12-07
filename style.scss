@@ -175,6 +175,10 @@ img {
   background-color: $lightestGray;
   border-radius: 5px;
 
+  img {
+    max-width: 100%;
+  }
+
   @include mobile {
     text-align: center;
     margin: 10px;
