@@ -172,10 +172,12 @@ img {
   padding: 13px 15px 10px 0;
   border: 1px solid $lightGray;
   background-color: $lightestGray;
-  border-radius: 10px;
+  border-radius: 5px;
 
   @include mobile {
     text-align: center;
+    margin: 10px;
+    padding: 10px;
   }
 }
 
@@ -222,9 +224,13 @@ img {
   margin: -11px 0 0 0;
   color: $gray;
   font-size: 14px;
-
+  letter-spacing: 2px;
+  padding-left: 10px;
+  
+  
   @include mobile {
-    margin: 3px 0;
+//    margin: 1px 0;
+//    letter-spacing: 2px;
   }
 }
 
@@ -238,6 +244,8 @@ nav {
   @include mobile {
     float: none;
     margin-top: 9px;
+    margin-right: 0;
+    padding-left: 15px;
     display: block;
     font-size: 16px;
   }
@@ -298,6 +306,12 @@ nav {
   }
 }
 
+.page {
+//  border: 2px solid;
+//  border-color: red;
+  padding: 10px;
+}
+
 .wrapper-footer {
   margin-top: 60px;
   margin-bottom: 10px;
@@ -306,7 +320,7 @@ nav {
   width: 740px;
   background-color: $lightestGray;
   border: 1px solid $lightGray;
-  border-radius: 10px;
+  border-radius: 5px;
 
   @include mobile {
     width: auto;
@@ -316,7 +330,7 @@ nav {
 }
 
 footer {
-  padding: 10px 0;
+  padding: 10px 10px;
   text-align: center;
 }
 
