@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: null
 title: Links
 permalink: /links/
 ---
 
+{% comment %}
 This is a list of useful / interesting places in the web.<br>
 Enjoy.<br><br>
 
@@ -117,3 +118,4 @@ Lekcja Assemblera (wytrzeszcz):
 **LTE:**<br>
 [LTE Poradnik](http://www.w3ii.com/pl/lte/default.html) \[PL\]<br>
 
+{% endcomment %}
