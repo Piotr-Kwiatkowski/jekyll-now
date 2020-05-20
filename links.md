@@ -4,6 +4,8 @@ title: Links
 permalink: /links/
 ---
 
+<!--
+
 This is a list of useful / interesting places in the web.<br>
 Enjoy.<br><br>
 
@@ -83,10 +85,10 @@ Gynvael Coldwind: [PL](https://www.youtube.com/user/GynvaelColdwind) | [EN](http
 Curiously recurring template pattern: [wykop](https://www.wykop.pl/wpis/21931839/mam-klase-abstrakcyjna-blob-z-funkcjami-wirtualnym/) + [wiki](https://en.wikipedia.org/wiki/Curiously_recurring_template_pattern)<br>
 [Top 10 C++ header file mistakes and how to fix them](https://www.reddit.com/r/programming/comments/4xfqld/top_10_c_header_file_mistakes_and_how_to_fix_them/)<br>
 [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)<br>
-Lekcja Assemblera (wytrzeszcz): 
-[1](https://steemit.com/polish/@wytrzeszcz/lekcja-assemblera-1) | 
-[2](https://steemit.com/polish/@wytrzeszcz/lekcja-assemblera-2) | 
-[3](https://steemit.com/polish/@wytrzeszcz/lekcja-assemblera-3) | 
+Lekcja Assemblera (wytrzeszcz):
+[1](https://steemit.com/polish/@wytrzeszcz/lekcja-assemblera-1) |
+[2](https://steemit.com/polish/@wytrzeszcz/lekcja-assemblera-2) |
+[3](https://steemit.com/polish/@wytrzeszcz/lekcja-assemblera-3) |
 [4](https://steemit.com/polish/@wytrzeszcz/lekcja-assemblera-4) \[PL\]<br>
 [Python Data Science Handbook - Jake Vanderplas](https://www.wykop.pl/wpis/21940047/python-data-science-handbook-jake-vanderplas-http-/) \[PL\]<br>
 [Learning C++ properly (not C with classes)](https://softwareengineering.stackexchange.com/questions/48401/learning-c-properly-not-c-with-classes)<br>
@@ -116,3 +118,5 @@ Lekcja Assemblera (wytrzeszcz):
 
 **LTE:**<br>
 [LTE Poradnik](http://www.w3ii.com/pl/lte/default.html) \[PL\]<br>
+
+-->
